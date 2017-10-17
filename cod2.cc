@@ -17,3 +17,5 @@ int main()
   cout<<"suma"<<sum<<endl;
   return 0;
 }
+ 
+//suma da 110
